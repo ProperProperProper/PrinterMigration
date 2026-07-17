@@ -1,0 +1,4 @@
+PrinterName,IPAddress,DriverName
+HP-Floor2-MFP,192.168.10.20,HP Universal Printing PCL 6
+Canon-Accounts,192.168.10.35,Canon Generic Plus PCL6
+Konica-Reception,192.168.10.41,KONICA MINOLTA Universal PCL v3.3

@@ -1,0 +1,5 @@
+# Packaging tool - download from Microsoft when needed
+IntuneWinAppUtil.exe
+
+# Compiled package - regenerate with IntuneWinAppUtil.exe
+*.intunewin
